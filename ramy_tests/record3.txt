@@ -1,0 +1,7 @@
+duration = 48
+status = 'C'
+acct_district_id = 64
+frequency = 'POPLATEK MESICNE'
+disp_type = 'OWNER'
+cli_district_id = 64
+gender = 'Female'

@@ -1,0 +1,6 @@
+acct_district_id = 16
+frequency = 'POPLATEK TYDNE'
+disp_type = 'OWNER'
+cli_district_id = 16
+lastname = 'Branan'
+gender = 'Female'
